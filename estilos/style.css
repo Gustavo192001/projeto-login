@@ -33,6 +33,7 @@ section#login{
 }
 
 section#login > div#imagem{
+    display: block;
     background: #E76867 url(../imagens/cidade.jpg) no-repeat;
     background-size: cover;
     background-position: left bottom;
@@ -40,5 +41,6 @@ section#login > div#imagem{
 }
 
 section#login > div#formulario{
+    display: block;
     padding: 10px;
 }
